@@ -3,6 +3,11 @@
 
 # 使用
 
+下载脚本`update.ps1`
+
+![alt text](.asset\image.png)
+
+或者
 ```pwsh
 set-executionpolicy remotesigned
 pwsh update.ps1
