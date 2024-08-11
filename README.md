@@ -17,6 +17,7 @@ pwsh update.ps1
 
 此脚本在运行过程中会关闭运行中的maa以避免无法完成资源文件覆盖。
 
-没有配置git与github的远程连接的可以替换脚本代码中 git clone 的部分
+~~没有配置git与github的远程连接的可以替换脚本代码中 git clone 的部分~~ 
+现在默认使用http下载
 
 maa，伟大无需多言
